@@ -1,0 +1,70 @@
+/* CSS files add styling rules to your content */
+#title{
+  text-align: center;
+  background-color: rgb(59, 78, 102);
+  color: white;
+    padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.container{
+text-align: center;
+  
+}
+
+.cardContainer{
+padding-top: 50px;
+  
+}
+
+.card-img-top{
+    height: 300px;
+  width: 100%;
+}
+#reminder{
+  border-color: black;
+  background-color: rgb(149, 138, 171);
+  padding-top: 50px;
+}
+#rPic{
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+#rText{
+  text-align: center;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-weight: bold;
+}
+
+#footer{
+  background-color: rgb(103, 109, 117);
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.footerText{
+  text-align: center;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+#footHeading{
+  background-color: rgb(206, 205, 209);
+  padding-top:50px ;
+  padding-bottom: 30px;
+}
+#footBody{
+  padding-top: 20px;
+}
+#title{
+  font-family: 'Shadows Into Light', cursive;
+}
+.display-4{
+  font-family: 'Poppins', sans-serif;
+}
+.card-title{
+  font-family: 'Shadows Into Light', cursive;
+  font-weight: bold;
+}
+.card-text{
+   font-family: 'Shadows Into Light', cursive;
+}
